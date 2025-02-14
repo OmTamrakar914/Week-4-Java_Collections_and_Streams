@@ -1,0 +1,3 @@
+In Java, the Queue interface is a subtype of the Collection interface and represents a collection of elements in a specific order. It follows the first-in, first-out (FIFO) principle, which means that the elements are retrieved in the order in which they were added to the queue.
+
+The Queue interface provides several methods for adding, removing, and inspecting elements in the queue. Here are some of the most commonly used methods:
